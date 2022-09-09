@@ -6,7 +6,7 @@ A customer receives 2 points for every dollar spent over $100 in each transactio
  
 Given a record of every transaction during a three month period, the app shows the reward points earned for each customer per month and total.
  
-![Rewards](/public/rewards.jpg?raw=true "Rewards")
+
 
 # Steps to run this App:
 * Run "npm install" to install dependancies
